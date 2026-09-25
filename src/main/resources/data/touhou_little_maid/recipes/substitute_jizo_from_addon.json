@@ -6,29 +6,13 @@
     "FDH"
   ],
   "key": {
-    "A": {
-      "item": "touhou_little_maid:fire_protect_bauble"
-    },
-    "B": {
-      "item": "touhou_little_maid:nimble_fabric"
-    },
-    "C": {
-      "item": "touhou_little_maid:drown_protect_bauble"
-    },
-    "D": {
-      "item": "jizoaddon:half_totem"
-    },
-    "E": {
-      "item": "minecraft:diamond_block"
-    },
-    "F": {
-      "item": "minecraft:enchanted_golden_apple"
-    },
-    "H": {
-  "type": "forge:nbt",
-  "item": "minecraft:enchanted_book",
-  "nbt": "{StoredEnchantments:[{id:\"minecraft:protection\",lvl:4s}]}"
-    }
+    "A": { "item": "touhou_little_maid:fire_protect_bauble" },
+    "B": { "item": "touhou_little_maid:nimble_fabric" },
+    "C": { "item": "touhou_little_maid:drown_protect_bauble" },
+    "D": { "item": "jizoaddon:half_totem" },
+    "E": { "item": "minecraft:diamond_block" },
+    "F": { "item": "minecraft:enchanted_golden_apple" },
+    "H": { "type": "jizoaddon:protection_book" }
   },
   "result": {
     "item": "touhou_little_maid:substitute_jizo",

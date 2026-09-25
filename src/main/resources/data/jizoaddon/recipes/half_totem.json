@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "BCB",
+    "ABA"
+  ],
+  "key": {
+    "A": { "item": "minecraft:gold_ingot" },
+    "B": { "item": "minecraft:red_bed" },
+    "C": { "item": "minecraft:emerald" }
+  },
+  "result": {
+    "item": "jizoaddon:half_totem",
+    "count": 1
+  }
+}
