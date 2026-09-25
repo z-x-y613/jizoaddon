@@ -12,7 +12,7 @@
     "D": { "item": "jizoaddon:half_totem" },
     "E": { "item": "minecraft:diamond_block" },
     "F": { "item": "minecraft:enchanted_golden_apple" },
-    "H": { "type": "jizoaddon:protection_book" }
+    "H": { "item": "minecraft:milk_bucket" }
   },
   "result": {
     "item": "touhou_little_maid:substitute_jizo",
